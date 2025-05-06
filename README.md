@@ -26,17 +26,17 @@ A simple, interactive Tic-Tac-Toe game built with **React**, **Vite**, and style
 
 Follow these steps to set up the project locally:
 
-# 1. Clone the repository
+## 1. Clone the repository
 git clone https://github.com/your-username/tic-tac-toe.git
 
-# 2. Navigate into the project directory
+## 2. Navigate into the project directory
 cd tic-tac-toe
 
-# 3. Install project dependencies
+## 3. Install project dependencies
 npm install
 
-# 4. Start the development server
+## 4. Start the development server
 npm run dev
 
-# 5. Open yout browser and go to 
+## 5. Open yout browser and go to 
 http://localhost:5173
